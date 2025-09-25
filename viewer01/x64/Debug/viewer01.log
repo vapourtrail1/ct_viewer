@@ -1,0 +1,4 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 5.14.2
+  viewer01.cpp
+  viewer01.vcxproj -> D:\code\viewer_demo01\viewer01\x64\Debug\viewer01.exe

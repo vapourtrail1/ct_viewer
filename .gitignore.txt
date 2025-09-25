@@ -1,0 +1,58 @@
+# IDE
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+.idea/
+.vscode/
+
+# VS/编译产物
+*.ipch
+*.obj
+*.o
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.exp
+*.lib
+*.dll
+*.exe
+*.cache
+
+# 常见输出目录
+Debug/
+Release/
+RelWithDebInfo/
+MinSizeRel/
+x64/
+x86/
+arm*/
+bin/
+obj/
+out/
+build/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+install_manifest.txt
+Testing/
+
+# Qt 生成文件
+moc_*
+ui_*
+qrc_*
+*.qmlc
+*.jsc
+*.pro.user
+*.pro.user.*
+
+# 其他大文件/压缩包（可选）
+*.zip
+*.7z
+*.tar
+*.tar.gz
